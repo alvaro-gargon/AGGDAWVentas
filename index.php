@@ -42,7 +42,7 @@ if (!empty($_SESSION['active'])) {
     <!-- The above 6 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>ACCESO AL SISTEMA</title>
+    <title>EXAMEN VENTAS</title>
 
     <!-- Styles -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -77,7 +77,7 @@ if (!empty($_SESSION['active'])) {
         </div>
         <form class="app-auth-container" action="" id="login-form" method="POST">
             <div class="logo">
-                <a href="#">SISTEMAS FREE</a>
+                <a href="#">AMOR DA DAW</a>
             </div>
 
             <div class="auth-credentials m-b-xxl">

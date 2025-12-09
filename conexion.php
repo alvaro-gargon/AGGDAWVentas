@@ -1,7 +1,7 @@
 <?php
     $host = "localhost";
-    $user = "admin";
-    $clave = "12345";
+    $user = "userDBVentas";
+    $clave = "paso";
     $bd = "DBVentas";
     $conexion = mysqli_connect($host,$user,$clave,$bd);
     if (mysqli_connect_errno()){
